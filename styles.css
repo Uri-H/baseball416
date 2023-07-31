@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+  
+#narrative-container {
+    width: 100%;
+    max-width: 2000px;
+    margin: 0 auto;
+    padding: 20px;
+    float: none; 
+}
+#narrative-container svg {
+    margin-left: 0px; 
+}
+
+#sceneTwo{
+    display:none;
+}
+
+#sceneThree{
+    display: none;
+}
+
